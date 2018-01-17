@@ -1,1 +1,3 @@
-"# docute-theme-park" 
+# Docute Theme : Park
+
+Small theme stylesheet for docute
